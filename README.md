@@ -29,12 +29,12 @@ Além disso, a análise dos dados permitirá entender os fatores mais impactante
   - 'Avg_additional_charges_total': a quantidade total de dinheiro gasto em outros serviços da academia: café, artigos esportivos, cosméticos, massagem, etc
 
 ## Ferramentas e Bibliotecas utilizadas
-- Python: Linguagem principal utilzaida para análise
-- Pandas: Biblioteca para manipulação e análise gráfica
-- Matplotlib: Biblioteca para gerar gráfico
-- Seaborn: Biblioteca de visualização de dados
-- Scipy: Biblioteca para testes estatísticos
-- Sklearn: Biblioteca utilizada para agrupar os dados com machine learn
+- Python: Linguagem principal utilizada para a análise de dados, permitindo a implementação de diversas soluções analíticas e algoritmos.
+- Pandas: Biblioteca essencial para a manipulação e análise de dados, facilitando operações de agregação, filtragem, e transformação de grandes volumes de informações.
+- Matplotlib: Biblioteca para geração de gráficos estáticos, utilizada para criar visualizações detalhadas e facilitar a análise exploratória de dados.
+- Seaborn: Biblioteca complementar a Matplotlib, especializada na criação de gráficos estatísticos e visuais mais avançados e estéticos, ideal para exploração e comunicação de dados.
+- SciPy: Biblioteca que oferece funções científicas, incluindo ferramentas para testes estatísticos e otimização, auxiliando na análise e interpretação de dados.
+- Scikit-learn (Sklearn): Biblioteca utilizada para implementação de algoritmos de aprendizado de máquina, especialmente útil para agrupamento de dados e construção de modelos preditivos.
 
 ## Imagens
 
@@ -96,25 +96,29 @@ Além disso, a análise dos dados permitirá entender os fatores mais impactante
 <img src="https://github.com/user-attachments/assets/631c65b7-d7ef-4b8e-8192-4d64843c9e15" alt="Projeto 13" width="200"/>
 
 ## Resultados
-- Fazendo todas as conclusões, avaliando os métodos vendo a relação entre as características, como elas estão relacionadas entre si e como elas se relacionam com a rotatividade
-- É possível ver que existem caraterísticas que influenciam mais na rotatividade
-- Uma dessas caraterísticas é a localização
-- Por outro lado, existem características que não influenciam mais na rotatividade
-- Um exemplo é o gênero
-- Indicações de amigos e aulas grupaos ajuam a fidelizar o cliente, assim como planos semestrais e anuais
+- Relação entre Características e Rotatividade:
+  - Analisamos como diferentes características dos clientes se relacionam com a rotatividade.
+- Características que mais influenciam a rotatividade:
+  - Localização: Clientes distantes da academia têm maior probabilidade de cancelar.
+- Características com menor impacto na rotatividade:
+  - Gênero: Não há diferença significativa na rotatividade entre homens e mulheres.
+- Fatores que ajudam a fidelizar clientes:
+  - Indicação de amigos: Clientes indicados por amigos tendem a ficar mais tempo.
+  - Aulas em grupo: A participação em aulas coletivas ajuda a manter os clientes.
+  - Planos semestrais e anuais: Contratos de longo prazo reduzem a rotatividade.
 
 ## Apredizados
-- Análise de dados
-- Limpeza de dados
-- Construção e análise de gráficos
-- Tratar os dados modificando os tipos das colunas, nome das colunas, valores ausentes, valores duplicados
-- Trabalhar com sklearn oara usar machine learn nas análises de dados
-- Interpretar os agrupamentos
+- Análise de Dados: Processo de exploração e interpretação de dados, identificando padrões, tendências e relações importantes para gerar insights significativos.
+- Limpeza de Dados: Atividades de preparação de dados, que incluem a identificação e correção de inconsistências, remoção de registros duplicados, preenchimento ou exclusão de valores ausentes, e a padronização de formatos.
+- Construção e Análise de Gráficos: Criação de representações visuais dos dados, como gráficos de barras, linhas, dispersão, entre outros, com o objetivo de facilitar a interpretação dos dados e destacar informações relevantes.
+- Tratamento de Dados: Ajustes no formato e estrutura dos dados, como a modificação de tipos de colunas, renomeação de variáveis, substituição de valores ausentes por alternativas viáveis ou a exclusão de valores inválidos e a remoção de duplicidades.
+- Uso do Scikit-Learn em Machine Learning: Aplicação da biblioteca Scikit-learn para realizar análises de dados usando técnicas de aprendizado de máquina, como classificação, regressão e agrupamento (clustering), com o objetivo de identificar padrões e prever comportamentos futuros.
+- Interpretação de Agrupamentos: Análise e entendimento de agrupamentos de dados (clusters) gerados por algoritmos de aprendizado de máquina, interpretando as características dos grupos e como eles se relacionam com os objetivos do estudo.
 
 ## Contexto real
-- Academias
-- Empresas que desejam diminuir a rotatividade de seus clientes
-- Analistas de dados que estudam rotatividade de clientes
+- Empresas do setor de academias que buscam estratégias para reduzir a rotatividade de seus clientes.
+- Organizações em diversos setores que desejam implementar ações para diminuir a perda de clientes e aumentar a retenção.
+- Profissionais e analistas de dados especializados na análise de rotatividade de clientes, focando na identificação de padrões e fatores que influenciam a permanência ou desistência de clientes.
 
 ## Como executar o projeto
 - Clone o repositório
