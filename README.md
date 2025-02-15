@@ -1,13 +1,15 @@
 # Projeto de Análise de Dados Model Fitness
 
 ## Descrição do Projeto
-Este projeto consiste em uma análise dos clientes de uma rede de academias, Model Fitness. A rede de academias está desenvolvendo uma estratégia de interação com o cliente baseados em dados analíticos, para tentar resolver um dos problemas mais comuns que academias e oitros serviços enfrenta, que é a rotatividade de clientes. Indicadores de rotatividade varia de área para área. A Model Fitness, em vez de lutar com a rotatividade, digitalizou uma parte dos perfis dos clientes para poder analisá-los e criar uma estratégia de retenção de clientes. Para isso, é preciso aprender a predizer a probabilidade de rotatividade para cada cliente, elaborar retratos típicos, analisar os fatores que mias impactam a roratividade oara com isso tirar conclusões básicas e desenvolver recomendações sobre como melhorar o serviço ao cliente. 
+Este projeto visa realizar uma análise aprofundada dos clientes da rede de academias Model Fitness, com o objetivo de desenvolver uma estratégia de retenção de clientes baseada em dados analíticos. A rotatividade de clientes é um dos maiores desafios enfrentados por academias e outros tipos de serviços de longo prazo, e a Model Fitness decidiu adotar uma abordagem mais tecnológica para lidar com esse problema. Para isso, a empresa digitalizou uma parte dos perfis dos seus clientes, permitindo a coleta e análise de dados detalhados sobre o comportamento e características dos usuários.
+O objetivo principal deste projeto é prever a probabilidade de rotatividade de cada cliente, utilizando modelos de dados que possam identificar os fatores de risco e, assim, ajudar na formulação de estratégias mais eficazes para a retenção. Além disso, busca-se elaborar retratos típicos de clientes, segmentando-os com base em suas características e comportamentos. Esse processo inclui a identificação de padrões que podem indicar os clientes mais propensos a se desligar da academia, assim como aqueles que têm maior potencial de fidelização.
+Além disso, a análise dos dados permitirá entender os fatores mais impactantes na rotatividade, como frequências de visita, tipos de planos contratados, histórico de interações com a academia e outros comportamentos relacionados. Com base nesses insights, serão desenvolvidas conclusões práticas que orientem melhorias no serviço ao cliente, como promoções personalizadas, mudanças na experiência do usuário e ajustes nos planos de fidelidade. O foco é não apenas entender as razões pelas quais os clientes deixam de frequentar a academia, mas também adotar uma abordagem proativa para manter os clientes existentes e atrair novos, minimizando assim os custos com aquisição de clientes e aumentando a satisfação geral.
 
 ## As tarefas são:
-- Análise exploratória de dados
-- Modelo para predizer a rotatividade de clientes
-- Criar um agrupamento de clientes
-- Analisar os fatores que mais impactam a rotatividade
+- Realização de uma análise exploratória de dados para identificar padrões e insights relevantes sobre o comportamento dos clientes.
+- Desenvolvimento de um modelo preditivo para estimar a probabilidade de rotatividade de clientes, utilizando técnicas de aprendizado de máquina ou estatísticas.
+- Segmentação dos clientes com base em características comuns, criando grupos distintos que permitem uma compreensão mais profunda dos diferentes perfis de consumidores.
+- Identificação e análise dos fatores que mais influenciam a rotatividade dos clientes, com o objetivo de otimizar as estratégias de retenção e melhorar a experiência do cliente.
 
 ## Dicionário de dados
 - gym_churn_us.csv: dados sobre rotatividade em um determinado mês e informações sobre o mês anterior
