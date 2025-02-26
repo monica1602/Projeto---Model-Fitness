@@ -6,7 +6,7 @@ O objetivo principal deste projeto é prever a probabilidade de rotatividade de 
 Além disso, a análise dos dados permitirá entender os fatores mais impactantes na rotatividade, como frequências de visita, tipos de planos contratados, histórico de interações com a academia e outros comportamentos relacionados. Com base nesses insights, serão desenvolvidas conclusões práticas que orientem melhorias no serviço ao cliente, como promoções personalizadas, mudanças na experiência do usuário e ajustes nos planos de fidelidade. O foco é não apenas entender as razões pelas quais os clientes deixam de frequentar a academia, mas também adotar uma abordagem proativa para manter os clientes existentes e atrair novos, minimizando assim os custos com aquisição de clientes e aumentando a satisfação geral.
 
 ## As tarefas são:
-- Realização de uma análise exploratória de dados para identificar padrões e insights relevantes sobre o comportamento dos clientes.
+- Condução de uma análise exploratória de dados para detectar padrões e obter informações relevantes sobre o comportamento dos clientes.
 - Desenvolvimento de um modelo preditivo para estimar a probabilidade de rotatividade de clientes, utilizando técnicas de aprendizado de máquina ou estatísticas.
 - Segmentação dos clientes com base em características comuns, criando grupos distintos que permitem uma compreensão mais profunda dos diferentes perfis de consumidores.
 - Identificação e análise dos fatores que mais influenciam a rotatividade dos clientes, com o objetivo de otimizar as estratégias de retenção e melhorar a experiência do cliente.
@@ -38,62 +38,62 @@ Além disso, a análise dos dados permitirá entender os fatores mais impactante
 
 ## Imagens
 
-### Histograma de gênero
-<img ssrc="https://github.com/user-attachments/assets/8412551d-9e9b-4b4b-a5c8-6c2e50343817" alt="Projeto 13" width="200"/>
+### Gráfico - Histograma de gênero
+<img ssrc="https://github.com/user-attachments/assets/8412551d-9e9b-4b4b-a5c8-6c2e50343817" alt="Projeto 13" width="800"/>
 
-### Histograma localização
-<img src="https://github.com/user-attachments/assets/efe3b652-f6f7-4708-af46-3575f33f7d02" alt="Projeto 13" width="200"/>
+### Gráfico - Histograma localização
+<img src="https://github.com/user-attachments/assets/efe3b652-f6f7-4708-af46-3575f33f7d02" alt="Projeto 13" width="800"/>
 
-### Histograma parceiro
-<img src="https://github.com/user-attachments/assets/b1c9d7fe-14dd-4199-98ba-f6a42278c43f" alt="Projeto 13" width="200"/>
+### Gráfico - Histograma parceiro
+<img src="https://github.com/user-attachments/assets/b1c9d7fe-14dd-4199-98ba-f6a42278c43f" alt="Projeto 13" width="800"/>
 
-### Histograma promoção amigos
-<img src="https://github.com/user-attachments/assets/1406fc4e-eb8d-4df5-8b85-4d9be80c147f" alt="Projeto 13" width="200"/>
+### Gráfico - Histograma promoção amigos
+<img src="https://github.com/user-attachments/assets/1406fc4e-eb8d-4df5-8b85-4d9be80c147f" alt="Projeto 13" width="800"/>
 
-### Histograma telefone
-<img src="https://github.com/user-attachments/assets/e59fa785-36a8-41f7-ab2c-278b9234bbf0" alt="Projeto 13" width="200"/>
+### Gráfico - Histograma telefone
+<img src="https://github.com/user-attachments/assets/e59fa785-36a8-41f7-ab2c-278b9234bbf0" alt="Projeto 13" width="800"/>
 
-### Histograma período de contrato
-<img src="https://github.com/user-attachments/assets/506ba2c9-4dfe-445e-af9b-e3902af8548e" alt="Projeto 13" width="200"/>
+### Gráfico - Histograma período de contrato
+<img src="https://github.com/user-attachments/assets/506ba2c9-4dfe-445e-af9b-e3902af8548e" alt="Projeto 13" width="800"/>
 
-### Histograma grupo de visitas
-<img src="https://github.com/user-attachments/assets/ec6060b9-4fba-43ea-a04c-27a2a2f375d5" alt="Projeto 13" width="200"/>
+### Gráfico - Histograma grupo de visitas
+<img src="https://github.com/user-attachments/assets/ec6060b9-4fba-43ea-a04c-27a2a2f375d5" alt="Projeto 13" width="800"/>
 
-### Histograma idade
-<img src="https://github.com/user-attachments/assets/31a2464e-a2ce-4f59-9e1c-54ee81b582fe" alt="Projeto 13" width="200"/>
+### Gráfico - Histograma idade
+<img src="https://github.com/user-attachments/assets/31a2464e-a2ce-4f59-9e1c-54ee81b582fe" alt="Projeto 13" width="800"/>
 
-### Histograma quantidade total de dinheiro gasto em outros serviços
-<img src="https://github.com/user-attachments/assets/13fac1c6-6b01-4d99-8bd4-2063f73cacf7" alt="Projeto 13" width="200"/>
+### Gráfico - Histograma quantidade total de dinheiro gasto em outros serviços
+<img src="https://github.com/user-attachments/assets/13fac1c6-6b01-4d99-8bd4-2063f73cacf7" alt="Projeto 13" width="800"/>
 
-### Histograma mês do fim do contrato
-<img src="https://github.com/user-attachments/assets/87f2f144-f898-46de-879c-246703920102" alt="Projeto 13" width="200"/>
+### Gráfico - Histograma mês do fim do contrato
+<img src="https://github.com/user-attachments/assets/87f2f144-f898-46de-879c-246703920102" alt="Projeto 13" width="800"/>
 
-### Histograma tempo desde a primeira vez na academia
-<img src="https://github.com/user-attachments/assets/084ac30f-8184-4ad7-89b6-eb3d934f7ac1" alt="Projeto 13" width="200"/>
+### Gráfico - Histograma tempo desde a primeira vez na academia
+<img src="https://github.com/user-attachments/assets/084ac30f-8184-4ad7-89b6-eb3d934f7ac1" alt="Projeto 13" width="800"/>
 
-### Histograma frequência média de idas por semana
-<img src="https://github.com/user-attachments/assets/b8bc7a37-8789-4c5e-b950-572a2c3f8998" alt="Projeto 13" width="200"/>
+### Gráfico - Histograma frequência média de idas por semana
+<img src="https://github.com/user-attachments/assets/b8bc7a37-8789-4c5e-b950-572a2c3f8998" alt="Projeto 13" width="800"/>
 
-### Histograma frequência média de visitas durante o mês corrente
-<img src="https://github.com/user-attachments/assets/06a64913-e171-47dc-83b6-25d40e6aa173" alt="Projeto 13" width="200"/>
+### Gráfico - Histograma frequência média de visitas durante o mês corrente
+<img src="https://github.com/user-attachments/assets/06a64913-e171-47dc-83b6-25d40e6aa173" alt="Projeto 13" width="800"/>
 
-### Métricas para regressão logística
+### Código - Métricas para regressão logística
 <img src="https://github.com/user-attachments/assets/0dc4bf76-2b56-4dca-9e42-406a5c43f148" alt="Projeto 13"/>
 
-### Métricas para floresta aleatória
+### Código - Métricas para floresta aleatória
 <img src="https://github.com/user-attachments/assets/18ec245e-2022-457e-8d02-cd66a6a74369" alt="Projeto 13"/>
 
-### Agrupamento hierárquico
-<img src="https://github.com/user-attachments/assets/73b8c3dd-cd6d-4398-b9a2-65788db8bd9f" alt="Projeto 13" width="200"/>
+### Gráfico - Agrupamento hierárquico
+<img src="https://github.com/user-attachments/assets/73b8c3dd-cd6d-4398-b9a2-65788db8bd9f" alt="Projeto 13" width="800"/>
 
-### Idade vs quantidade gasta
-<img src="https://github.com/user-attachments/assets/54c2bbda-07c8-40c3-9a9c-7177a72d9e52" alt="Projeto 13" width="200"/>
+### Gráfico - Idade vs quantidade gasta
+<img src="https://github.com/user-attachments/assets/54c2bbda-07c8-40c3-9a9c-7177a72d9e52" alt="Projeto 13" width="800"/>
 
-### Idade vs mês do fim do contrato
-<img src="https://github.com/user-attachments/assets/ba5a5865-6cdd-4bb8-8e96-d0a40cb2f41a" alt="Projeto 13" width="200"/>
+### Gráfico - Idade vs mês do fim do contrato
+<img src="https://github.com/user-attachments/assets/ba5a5865-6cdd-4bb8-8e96-d0a40cb2f41a" alt="Projeto 13" width="800"/>
 
-### Tempo vs mês do fim do contrato
-<img src="https://github.com/user-attachments/assets/631c65b7-d7ef-4b8e-8192-4d64843c9e15" alt="Projeto 13" width="200"/>
+### Gráfico - Tempo vs mês do fim do contrato
+<img src="https://github.com/user-attachments/assets/631c65b7-d7ef-4b8e-8192-4d64843c9e15" alt="Projeto 13" width="800"/>
 
 ## Resultados
 - Relação entre Características e Rotatividade:
